@@ -10,3 +10,6 @@ The features is :
       6- clear
       7- size
 --> so most of these features in the vector , so what is the matter of making it for arrays
+
+*Note*
+      The default data type is (integer) so you can change it in the main to the data type you want
